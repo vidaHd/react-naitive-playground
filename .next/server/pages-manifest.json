@@ -1,0 +1,14 @@
+{
+  "/_app": "pages/_app.js",
+  "/comment/[comment]": "pages/comment/[comment].html",
+  "/forgetPassword": "pages/forgetPassword.html",
+  "/": "pages/index.html",
+  "/login": "pages/login.html",
+  "/posts/List": "pages/posts/List.html",
+  "/posts": "pages/posts.html",
+  "/profile": "pages/profile.html",
+  "/sign": "pages/sign.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
